@@ -2,8 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\StartGame.cs">
     <Files>
-      <File FileName="Assets\LeapMotion\Modules\InteractionEngine\Examples\2. Basic UI\MovePoseExample.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\StartGame.cs" Line="13" Column="19" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="12" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
